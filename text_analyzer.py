@@ -1,4 +1,4 @@
-#project-15
+#project
 #1. Project Idea: Text Analyzer 
 #• Description: Create a program that takes a string input from the user and performs 
 #various analyses such as counting the number of words, characters, and sentences. It 
